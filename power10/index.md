@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2025-01-23 00:48:52.87937352 +0800 CST
+content update: 2025-01-24 00:50:41.3162689 +0800 CST
 
 ---
 
