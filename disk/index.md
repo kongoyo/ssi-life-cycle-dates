@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-01-28 00:48:59.41851603 +0800 CST
+content update: 2025-01-29 00:48:31.21807702 +0800 CST
 
 ---
 
@@ -56,7 +56,6 @@ content update: 2025-01-28 00:48:59.41851603 +0800 CST
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
 - [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
 - [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
-- [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
@@ -1430,33 +1429,6 @@ content update: 2025-01-28 00:48:59.41851603 +0800 CST
 | 2078-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 | 2078-U5B | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 | 2078-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26](https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-UHB | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 
