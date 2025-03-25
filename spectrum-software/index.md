@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2025-03-25 00:50:55.061507117 +0800 CST
+content update: 2025-03-26 00:48:26.578886828 +0800 CST
 
 ---
 
