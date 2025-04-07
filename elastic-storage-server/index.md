@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2025-04-07 00:47:03.98343971 +0800 CST
+content update: 2025-04-08 00:49:08.174848546 +0800 CST
 
 ---
 
