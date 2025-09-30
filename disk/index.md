@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-09-30 00:45:45.935750921 +0800 CST
+content update: 2025-10-01 00:50:12.881831229 +0800 CST
 
 ---
 
@@ -90,6 +90,7 @@ content update: 2025-09-30 00:45:45.935750921 +0800 CST
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
+- [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
@@ -2209,6 +2210,29 @@ content update: 2025-09-30 00:45:45.935750921 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2424-96E | 2012-10-03 | 2012-10-19 | 2017-11-22 | 2020-12-31 |
 | 2424-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2810+01 IBM XIV Storage System
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system](https://www.ibm.com/docs/en/announcements/xiv-storage-system?region=AP)
+
+📅 2017-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2810-A14 | 2008-08-12 | 2008-08-15 | 2012-10-26 | 2018-12-31 |
 
 
 
