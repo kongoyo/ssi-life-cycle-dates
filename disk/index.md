@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-02 00:50:08.587027971 +0800 CST
+content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 ---
 
@@ -118,7 +118,7 @@ content update: 2025-10-02 00:50:08.587027971 +0800 CST
 - [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
 - [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
 - [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
-- [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
+- [](#)
 - [3390-B18 IBM Direct Access Storage Device (DASD) Model B18](#3390-b18-ibm-direct-access-storage-device-dasd-model-b18)
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
 - [3390-B24 IBM Direct Access Storage Device (DASD) Model B24](#3390-b24-ibm-direct-access-storage-device-dasd-model-b24)
@@ -2904,15 +2904,12 @@ content update: 2025-10-02 00:50:08.587027971 +0800 CST
 
 
 
-### 3390-B14 IBM Direct Access Storage Device (DASD) Model B14
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14?region=AP)
 
 📅 2005-06-06
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-B14 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2005-12-31 |
 
 
 
