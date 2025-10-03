@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-03 00:49:18.432258325 +0800 CST
+content update: 2025-10-04 00:48:44.388428672 +0800 CST
 
 ---
 
@@ -118,7 +118,7 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 - [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
 - [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
 - [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
-- [](#)
+- [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
 - [3390-B18 IBM Direct Access Storage Device (DASD) Model B18](#3390-b18-ibm-direct-access-storage-device-dasd-model-b18)
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
 - [3390-B24 IBM Direct Access Storage Device (DASD) Model B24](#3390-b24-ibm-direct-access-storage-device-dasd-model-b24)
@@ -145,16 +145,16 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
 - [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
-- [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
-- [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
+- [](#)
+- [](#)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
 - [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
 - [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
 - [7133-D40 IBM Serial Disk System Advanced Model D40](#7133-d40-ibm-serial-disk-system-advanced-model-d40)
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
-- [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
+- [](#)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
-- [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
+- [](#)
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
@@ -2904,12 +2904,15 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 
 
-### 
+### 3390-B14 IBM Direct Access Storage Device (DASD) Model B14
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14?region=AP)
 
 📅 2005-06-06
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-B14 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2005-12-31 |
 
 
 
@@ -3542,7 +3545,7 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 
 
-### 7027-HSD IBM High Capacity Drawer Model HSD
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd?region=AP)
 
@@ -3562,15 +3565,12 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 
 
-### 7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-010](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-010?region=AP)
 
 📅 2018-07-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7133-010 | 1995-07-25 | 1995-08-11 | 1997-05-05 | 2019-12-31 |
 
 
 
@@ -3697,15 +3697,12 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 
 
-### 7134-010 IBM High Density SCSI Disk Subsystem Model 010
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-density-scsi-disk-subsystem-model-010](https://www.ibm.com/docs/en/announcements/high-density-scsi-disk-subsystem-model-010?region=AP)
 
 📅 2009-06-06
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7134-010 | 1994-05-24 | 1994-06-10 | 1996-12-06 | 2010-12-31 |
 
 
 
@@ -3743,15 +3740,12 @@ content update: 2025-10-03 00:49:18.432258325 +0800 CST
 
 
 
-### 7135-110 IBM RAIDiant Array Model 110
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/raidiant-array-model-110](https://www.ibm.com/docs/en/announcements/raidiant-array-model-110?region=AP)
 
 📅 2008-03-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7135-110 | 1993-07-13 | 1993-09-24 | 1997-06-24 | 2008-12-31 |
 
 
 
