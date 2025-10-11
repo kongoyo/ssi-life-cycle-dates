@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2025-10-11 00:49:07.851705741 +0800 CST
+content update: 2025-10-12 00:46:28.887817746 +0800 CST
 
 ---
 
@@ -11,7 +11,7 @@ content update: 2025-10-11 00:49:07.851705741 +0800 CST
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
-- [](#)
+- [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
 
 ---
 
@@ -119,12 +119,18 @@ content update: 2025-10-11 00:49:07.851705741 +0800 CST
 
 
 
-### 
+### 5725-F93 IBM Spectrum Control 5.4
 
 🔗 [https://www.ibm.com/docs/en/announcements/spectrum-control-54](https://www.ibm.com/docs/en/announcements/spectrum-control-54?region=AP)
 
 📅 2023-03-14
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5725-F93 | 05.04.00 | 2020-08-18 | 2020-08-20 | - |
+| 5608-PC1 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
+| 5608-PC2 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
+| 5725-G33 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
 
 
 
