@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-23 00:53:17.184726053 +0800 CST
+content update: 2025-10-24 00:51:19.104646659 +0800 CST
 
 ---
 
@@ -144,7 +144,7 @@ content update: 2025-10-23 00:53:17.184726053 +0800 CST
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
 - [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
-- [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
+- [](#)
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
@@ -3470,15 +3470,12 @@ content update: 2025-10-23 00:53:17.184726053 +0800 CST
 
 
 
-### 7135-110 IBM RAIDiant Array Model 110
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/raidiant-array-model-110](https://www.ibm.com/docs/en/announcements/raidiant-array-model-110?region=AP)
 
 📅 2008-03-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7135-110 | 1993-07-13 | 1993-09-24 | 1997-06-24 | 2008-12-31 |
 
 
 
