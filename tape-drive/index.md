@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-10-27 00:48:14.462725231 +0800 CST
+content update: 2025-10-28 00:51:45.734984295 +0800 CST
 
 ---
 
@@ -19,7 +19,7 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [3490-D32 IBM Magnetic Tape Subsystem Model D32](#3490-d32-ibm-magnetic-tape-subsystem-model-d32)
 - [3490-D41 IBM Magnetic Tape Subsystem Model D41](#3490-d41-ibm-magnetic-tape-subsystem-model-d41)
 - [3490-D42 IBM Magnetic Tape Subsystem Model D42](#3490-d42-ibm-magnetic-tape-subsystem-model-d42)
-- [3490-E01 IBM Magnetic Tape Subsystem Model E01](#3490-e01-ibm-magnetic-tape-subsystem-model-e01)
+- [](#)
 - [3490-F11 IBM Magnetic Tape Subsystem Model F11](#3490-f11-ibm-magnetic-tape-subsystem-model-f11)
 - [3490-FC0 IBM Rack Model FC0](#3490-fc0-ibm-rack-model-fc0)
 - [Family 3580+01 IBM Ultrium Tape Drive](#family-358001-ibm-ultrium-tape-drive)
@@ -43,7 +43,7 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A](#family-358803-ibm-system-storage-ts1040-tape-drive-model-f4a)
 - [Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A](#family-358804-ibm-system-storage-ts1050-tape-drive-model-f5a)
 - [Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A](#family-358805-ibm-system-storage-ts1060-tape-drive-model-f6a)
-- [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
+- [](#)
 - [Family 3588+08 IBM TS1070 Tape Drive Model F7A](#family-358808-ibm-ts1070-tape-drive-model-f7a)
 - [Family 3588+09 IBM TS1080 Tape Drive Model F8A](#family-358809-ibm-ts1080-tape-drive-model-f8a)
 - [Family 3588+11 IBM TS1080 Tape Drive Model F8S](#family-358811-ibm-ts1080-tape-drive-model-f8s)
@@ -54,21 +54,21 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [3590-B1A IBM TotalStorage Enterprise Tape Drive Model B1A](#3590-b1a-ibm-totalstorage-enterprise-tape-drive-model-b1a)
 - [3590-C10 IBM TotalStorage Silo Compatible Tape Controller Model C10](#3590-c10-ibm-totalstorage-silo-compatible-tape-controller-model-c10)
 - [3590-C12 IBM TotalStorage Silo Compatible Tape Drive Frame Model C12](#3590-c12-ibm-totalstorage-silo-compatible-tape-drive-frame-model-c12)
-- [3590-C14 IBM TotalStorage Silo Compatible Tape Drive Frame Model C14](#3590-c14-ibm-totalstorage-silo-compatible-tape-drive-frame-model-c14)
-- [3590-E11 IBM TotalStorage Enterprise Tape Drive Model E11](#3590-e11-ibm-totalstorage-enterprise-tape-drive-model-e11)
-- [3590-E1A IBM TotalStorage Enterprise Tape Drive Model E1A](#3590-e1a-ibm-totalstorage-enterprise-tape-drive-model-e1a)
+- [](#)
+- [](#)
+- [](#)
 - [3590-H1A IBM TotalStorage Enterprise Tape Drive Model H1A](#3590-h1a-ibm-totalstorage-enterprise-tape-drive-model-h1a)
 - [Family 3592+01 IBM System Storage TS1120 Tape Controller Model C06](#family-359201-ibm-system-storage-ts1120-tape-controller-model-c06)
-- [Family 3592+02 IBM TotalStorage Silo Compatible Tape Drive Frame Mod. C20](#family-359202-ibm-totalstorage-silo-compatible-tape-drive-frame-mod-c20)
+- [](#)
 - [Family 3592+03 IBM System Storage TS1120 Tape Drive Model E05](#family-359203-ibm-system-storage-ts1120-tape-drive-model-e05)
 - [Family 3592+04 IBM TotalStorage Enterprise Tape Drive Model J1A](#family-359204-ibm-totalstorage-enterprise-tape-drive-model-j1a)
 - [Family 3592+05 IBM TotalStorage Enterprise Tape Controller Model J70](#family-359205-ibm-totalstorage-enterprise-tape-controller-model-j70)
-- [Family 3592+06 IBM System Storage TS1130 Tape Drive Model E06](#family-359206-ibm-system-storage-ts1130-tape-drive-model-e06)
+- [](#)
 - [Family 3592+07 IBM System Storage TS1140 Tape Drive Model E07](#family-359207-ibm-system-storage-ts1140-tape-drive-model-e07)
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
-- [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
-- [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
+- [](#)
+- [](#)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
@@ -93,7 +93,7 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
 - [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
 - [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
-- [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
+- [](#)
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
 - [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
@@ -102,7 +102,7 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [7337-306 IBM Digital Linear Tape Library Model 306](#7337-306-ibm-digital-linear-tape-library-model-306)
 - [7337-360 IBM DLT8000 Digital Linear Tape Library Model 360](#7337-360-ibm-dlt8000-digital-linear-tape-library-model-360)
 - [9347-001 IBM Magnetic Tape Drive Model 001](#9347-001-ibm-magnetic-tape-drive-model-001)
-- [9348-001 IBM Magnetic Tape Unit Model 001](#9348-001-ibm-magnetic-tape-unit-model-001)
+- [](#)
 - [9348-002 IBM Magnetic Tape Unit Model 002](#9348-002-ibm-magnetic-tape-unit-model-002)
 - [9348-011 IBM Magnetic Tape Unit Model 011](#9348-011-ibm-magnetic-tape-unit-model-011)
 - [9348-012 IBM Magnetic Tape Unit Model 012](#9348-012-ibm-magnetic-tape-unit-model-012)
@@ -382,15 +382,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3490-E01 IBM Magnetic Tape Subsystem Model E01
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-e01](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-e01?region=AP)
 
 📅 2021-07-13
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3490-E01 | 1994-02-01 | 1994-03-25 | 1997-05-09 | 2022-12-31 |
 
 
 
@@ -945,15 +942,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3588+07 IBM TS1070 Tape Drive Model F7C
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c](https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c?region=AP)
 
 📅 2023-11-21
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3588-F7C | 2015-10-06 | 2015-11-20 | 2023-12-31 | - |
 
 
 
@@ -1198,15 +1192,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3590-C14 IBM TotalStorage Silo Compatible Tape Drive Frame Model C14
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c14](https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c14?region=AP)
 
 📅 2013-07-02
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-C14 | 1997-06-03 | 1997-06-13 | 2001-12-28 | 2013-12-30 |
 
 
 
@@ -1221,15 +1212,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3590-E11 IBM TotalStorage Enterprise Tape Drive Model E11
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e11](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e11?region=AP)
 
 📅 2014-07-16
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-E11 | 1999-04-20 | 1999-05-14 | 2006-09-29 | 2015-01-31 |
 
 
 
@@ -1244,15 +1232,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3590-E1A IBM TotalStorage Enterprise Tape Drive Model E1A
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e1a](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e1a?region=AP)
 
 📅 2014-07-16
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-E1A | 1999-04-20 | 1999-05-14 | 2006-09-29 | 2015-01-31 |
 
 
 
@@ -1313,15 +1298,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3592+02 IBM TotalStorage Silo Compatible Tape Drive Frame Mod. C20
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-mod-c20](https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-mod-c20?region=AP)
 
 📅 2020-04-28
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-C20 | 2003-09-09 | 2003-10-31 | 2009-12-31 | 2016-01-31 |
 
 
 
@@ -1405,15 +1387,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3592+06 IBM System Storage TS1130 Tape Drive Model E06
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1130-tape-drive-model-e06](https://www.ibm.com/docs/en/announcements/system-storage-ts1130-tape-drive-model-e06?region=AP)
 
 📅 2022-07-26
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-E06 | 2008-07-15 | 2008-09-05 | 2016-04-29 | 2023-12-31 |
 
 
 
@@ -1497,16 +1476,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1150-tape-drive-hd2-tape-drive](https://www.ibm.com/docs/en/announcements/ts1150-tape-drive-hd2-tape-drive?region=AP)
 
 📅 2023-11-14
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-EH8 | 2014-10-06 | 2014-11-21 | 2022-12-31 | - |
-| 3592-E08 | 2014-10-06 | 2014-10-24 | 2022-12-31 | - |
 
 
 
@@ -1521,15 +1496,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3592+12 IBM TS1155 Tape Drive Model 55G
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g?region=AP)
 
 📅 2022-07-26
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-55G | 2017-10-10 | 2017-11-17 | 2019-12-07 | 2023-12-31 |
 
 
 
@@ -2090,15 +2062,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 7329-308 IBM SLR100 Tape Autoloader Model 308
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/slr100-tape-autoloader-model-308](https://www.ibm.com/docs/en/announcements/slr100-tape-autoloader-model-308?region=AP)
 
 📅 2006-06-13
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7329-308 | 2001-04-23 | 2001-05-25 | 2002-06-07 | - |
 
 
 
@@ -2291,15 +2260,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 9348-001 IBM Magnetic Tape Unit Model 001
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-unit-model-001](https://www.ibm.com/docs/en/announcements/magnetic-tape-unit-model-001?region=AP)
 
 📅 2018-07-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9348-001 | 1989-10-01 | 1989-10-01 | 1999-02-26 | - |
 
 
 

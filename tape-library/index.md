@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2025-10-27 00:48:14.462725231 +0800 CST
+content update: 2025-10-28 00:51:45.734984295 +0800 CST
 
 ---
 
@@ -8,10 +8,10 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 - [](#)
-- [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
+- [](#)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
-- [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
+- [](#)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
@@ -28,7 +28,7 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
 - [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
-- [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
+- [](#)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
 - [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
@@ -62,15 +62,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10?region=AP)
 
 📅 2015-06-23
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L10 | 1993-09-07 | 1993-12-17 | 2002-12-27 | 2017-01-31 |
 
 
 
@@ -131,15 +128,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### 3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22?region=AP)
 
 📅 2016-06-28
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L22 | 2003-09-09 | 2003-10-31 | 2006-12-01 | 2017-01-31 |
 
 
 
@@ -524,15 +518,12 @@ content update: 2025-10-27 00:48:14.462725231 +0800 CST
 
 
 
-### Family 3958+05 IBM System Storage TS7650G Server Model DD4
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4?region=AP)
 
 📅 2019-12-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD4 | 2010-10-26 | 2010-12-03 | 2012-08-31 | 2019-12-31 |
 
 
 
