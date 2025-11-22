@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2025-11-22 00:51:32.131869842 +0800 CST
+content update: 2025-11-23 00:50:15.071705002 +0800 CST
 
 ---
 
@@ -27,8 +27,6 @@ content update: 2025-11-22 00:51:32.131869842 +0800 CST
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
-- [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
-- [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
 - [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
@@ -487,52 +485,6 @@ content update: 2025-11-22 00:51:32.131869842 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3958-AP1 | 2009-02-10 | 2009-03-06 | 2012-11-30 | 2018-11-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z](https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z?region=AP)
-
-📅 2019-12-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DE2 | 2010-02-09 | 2010-02-19 | 2012-09-28 | 2016-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3958+05 IBM System Storage TS7650G Server Model DD4
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4?region=AP)
-
-📅 2019-12-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD4 | 2010-10-26 | 2010-12-03 | 2012-08-31 | 2019-12-31 |
 
 
 
