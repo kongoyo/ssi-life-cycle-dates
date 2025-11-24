@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2025-11-24 00:48:36.871765685 +0800 CST
+content update: 2025-11-25 00:49:21.76457504 +0800 CST
 
 ---
 
@@ -9,11 +9,11 @@ content update: 2025-11-24 00:48:36.871765685 +0800 CST
 
 - [](#)
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
-- [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
+- [](#)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
 - [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
-- [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
+- [](#)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
 - [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
@@ -97,15 +97,12 @@ content update: 2025-11-24 00:48:36.871765685 +0800 CST
 
 
 
-### Family 2005+02 IBM TotalStorage SANB32 Switch
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch?region=AP)
 
 📅 2013-10-15
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B32 | 2004-11-09 | 2004-11-19 | 2007-10-06 | 2012-12-31 |
 
 
 
@@ -189,15 +186,12 @@ content update: 2025-11-24 00:48:36.871765685 +0800 CST
 
 
 
-### Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch](https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch?region=AP)
 
 📅 2013-10-15
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B5K | 2007-04-24 | 2007-05-04 | 2008-11-29 | - |
 
 
 
