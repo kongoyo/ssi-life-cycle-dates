@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2025-11-25 00:49:21.76457504 +0800 CST
+content update: 2025-11-26 00:53:49.882744916 +0800 CST
 
 ---
 
@@ -9,11 +9,11 @@ content update: 2025-11-25 00:49:21.76457504 +0800 CST
 
 - [](#)
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
-- [](#)
+- [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
 - [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
-- [](#)
+- [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
 - [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
@@ -40,7 +40,6 @@ content update: 2025-11-25 00:49:21.76457504 +0800 CST
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
-- [Family 8969+03 IBM Storage Networking SAN42B-R7](#family-896903-ibm-storage-networking-san42b-r7)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
 - [Family 9241+01 IBM SANnav](#family-924101-ibm-sannav)
@@ -97,12 +96,15 @@ content update: 2025-11-25 00:49:21.76457504 +0800 CST
 
 
 
-### 
+### Family 2005+02 IBM TotalStorage SANB32 Switch
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch?region=AP)
 
 📅 2013-10-15
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2005-B32 | 2004-11-09 | 2004-11-19 | 2007-10-06 | 2012-12-31 |
 
 
 
@@ -186,12 +188,15 @@ content update: 2025-11-25 00:49:21.76457504 +0800 CST
 
 
 
-### 
+### Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch](https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch?region=AP)
 
 📅 2013-10-15
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2005-B5K | 2007-04-24 | 2007-05-04 | 2008-11-29 | - |
 
 
 
@@ -794,29 +799,6 @@ content update: 2025-11-25 00:49:21.76457504 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7140-160 | 2001-07-31 | 2001-09-07 | 2003-12-12 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8969+03 IBM Storage Networking SAN42B-R7
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san42b-r7](https://www.ibm.com/docs/en/announcements/storage-networking-san42b-r7?region=AP)
-
-📅 2024-05-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8969-R42 | 2023-09-12 | 2023-10-13 |  |  |
 
 
 
